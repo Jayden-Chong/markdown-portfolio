@@ -1,4 +1,4 @@
-*Favorite foods:
+* Item
 Ice Cream
 Steak
 French bread
