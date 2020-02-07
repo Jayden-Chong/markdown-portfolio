@@ -1,4 +1,4 @@
 Favorite foods:
-Ice Cream
-Steak
-French bread
+-Ice Cream
+-Steak
+-French bread
